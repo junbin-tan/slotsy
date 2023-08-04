@@ -17,7 +17,7 @@ const hero = () => {
                 </p>
             </div>
             <div className='flex justify-center'>
-                <a href='#features'>
+                <a href='#features' className='cursor-pointer hover:scale-125 text-white'>
                         <button className='items-center rounded-full bg-orange-500 px-6 py-3 font-medium leading-5 text-white'>
                             Features
                         </button>
