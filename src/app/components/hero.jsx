@@ -14,7 +14,9 @@ const hero = () => {
             <p className='text-white'>
                 Discover a new way to access services. Slotsy revolutionizes how you connect with services. Simplifying your search and access top-notch solutions with Slotsy.
             </p>
-            
+            <p>
+                dfsf
+            </p>
         </div>
         <div>
             <Image src={image1} className='rounded-lg object-cover'></Image>
