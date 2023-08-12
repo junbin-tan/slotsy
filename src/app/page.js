@@ -4,6 +4,7 @@ import Hero from "./components/hero";
 import About from "./components/about";
 import Features from "./components/features";
 import Team from "./components/team";
+import Ending from "./components/ending";
 
 
 export default function Home() {
@@ -28,6 +29,10 @@ export default function Home() {
         <section id="contact">
 
        </section>
+       
+      <Ending/>
+       
+      
 
     </main>
   )

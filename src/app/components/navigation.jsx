@@ -9,7 +9,7 @@ const navigation = () => {
         <a href='#about' className='cursor-pointer hover:scale-125 text-white'>About</a>
         <a href='#features' className='cursor-pointer hover:scale-125 text-white'>Features</a>
         <a href='#team' className='cursor-pointer hover:scale-125 text-white'>Our Team</a>
-        <a href='#contact' className='cursor-pointer hover:scale-125 text-white'>Contact Us</a>
+        {/* <a href='#contact' className='cursor-pointer hover:scale-125 text-white'>Contact Us</a> */}
       </div>
 
     </div>
