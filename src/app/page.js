@@ -2,6 +2,7 @@
 import Navigation from "./components/navigation";
 import Hero from "./components/hero";
 import About from "./components/about";
+import Features from "./components/features";
 
 
 export default function Home() {
@@ -17,7 +18,7 @@ export default function Home() {
           <About/>
         </section>
         <section id="features">
-
+          <Features/>
         </section>
         <section id="team">
 
