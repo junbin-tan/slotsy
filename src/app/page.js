@@ -3,6 +3,7 @@ import Navigation from "./components/navigation";
 import Hero from "./components/hero";
 import About from "./components/about";
 import Features from "./components/features";
+import Team from "./components/team";
 
 
 export default function Home() {
@@ -21,7 +22,7 @@ export default function Home() {
           <Features/>
         </section>
         <section id="team">
-
+          <Team/>
         </section>
 
         <section id="contact">
