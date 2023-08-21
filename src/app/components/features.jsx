@@ -49,7 +49,7 @@ const features = () => {
         </div>
         <div className="mt-10 w-full h-full flex justify-center gap-6">
           <p className="font-display text-2xl font-semibold text-teal-700">
-              Admin Dashbod
+              Admin Dashboard
             </p>
           {/* <iframe src="https://www.youtube.com/embed/rw4SsxPh7zQ" title="Slotsy Demo Video"  allowfullscreen></iframe>
            */}
