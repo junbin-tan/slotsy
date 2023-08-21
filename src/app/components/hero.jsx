@@ -4,7 +4,7 @@ import image1 from 'public/Pixel1.png';
 
 const hero = () => {
   return (
-    <div className='p-10 mx-20 flex flex-row items-center'>
+    <div className='p-10 mx-20 flex flex-row items-center gap-10'>
         <div className='flex flex-col'>
             <div className='mb-5'>
                 <h3 className='text-white'>REGISTER YOUR INTEREST NOW</h3>
