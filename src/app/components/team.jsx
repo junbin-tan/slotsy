@@ -1,6 +1,8 @@
 import React from 'react'
 import Image from "next/image";
-import image1 from 'public/Pixel1.png';
+import v1 from 'public/v1.jpeg';
+import j1 from 'public/j1.jpeg';
+import jw1 from 'public/jw1.jpeg';
 
 
 const team = () => {
@@ -17,10 +19,10 @@ const team = () => {
             <li>
               <div className='opacity-95'>
                 <div className='group relative overflow-hidden rounded-3xl bg-neutral-100'>
-                  <Image src={image1} className='h-96 w-full object-cover grayscale transition duration-500 motion-safe:group-hover:scale-105'></Image>
+                  <Image src={v1} className='h-96 w-full object-cover grayscale transition duration-500 motion-safe:group-hover:scale-105'></Image>
                   <div className='absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black to-black/0 to-40% p-6'>
-                    <p className='font-display text-base/6 font-semibold tracking-wide text-white'>Samuel Tan</p>
-                    <p className='mt-2 text-sm text-white'>Ceo</p>
+                    <p className='font-display text-base/6 font-semibold tracking-wide text-white'>Varrene</p>
+                    <p className='mt-2 text-sm text-white'>Co-founder</p>
                   </div>
                 </div>
               </div>
@@ -28,10 +30,10 @@ const team = () => {
             <li>
               <div className='opacity-95'>
                 <div className='group relative overflow-hidden rounded-3xl bg-neutral-100'>
-                  <Image src={image1} className='h-96 w-full object-cover grayscale transition duration-500 motion-safe:group-hover:scale-105'></Image>
+                  <Image src={j1} className='h-96 w-full object-cover grayscale transition duration-500 motion-safe:group-hover:scale-105'></Image>
                   <div className='absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black to-black/0 to-40% p-6'>
-                    <p className='font-display text-base/6 font-semibold tracking-wide text-white'>Samuel Tan</p>
-                    <p className='mt-2 text-sm text-white'>Ceo</p>
+                    <p className='font-display text-base/6 font-semibold tracking-wide text-white'>Jun Bin</p>
+                    <p className='mt-2 text-sm text-white'>Co-founder</p>
                   </div>
                 </div>
               </div>
@@ -39,10 +41,10 @@ const team = () => {
             <li>
               <div className='opacity-95'>
                 <div className='group relative overflow-hidden rounded-3xl bg-neutral-100'>
-                  <Image src={image1} className='h-96 w-full object-cover grayscale transition duration-500 motion-safe:group-hover:scale-105'></Image>
+                  <Image src={jw1} className='h-96 w-full object-cover grayscale transition duration-500 motion-safe:group-hover:scale-105'></Image>
                   <div className='absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black to-black/0 to-40% p-6'>
-                    <p className='font-display text-base/6 font-semibold tracking-wide text-white'>Samuel Tan</p>
-                    <p className='mt-2 text-sm text-white'>Ceo</p>
+                    <p className='font-display text-base/6 font-semibold tracking-wide text-white'>Jasmine</p>
+                    <p className='mt-2 text-sm text-white'>Co-founder</p>
                   </div>
                 </div>
               </div>

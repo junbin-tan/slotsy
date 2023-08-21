@@ -10,7 +10,7 @@ const about = () => {
         </h2>
       </div>
       <div className="mt-6 max-w-3xl text-xl text-neutral-600">
-          <p>We believe that our strength lies in our collaborative approach, which puts our clients at the center of everything we do.</p>
+          <p>Welcome to Slotsy – your ultimate destination for car care connections. Discover a seamless marketplace where car owners find top-tier car wash services and providers showcase their expertise. Uniting convenience, quality, and innovation, Slotsy is where pristine vehicles meet exceptional care.</p>
       </div>
     </div>
 
